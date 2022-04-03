@@ -8,7 +8,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 function App() {
   return (
     <div>
-      <Header />
+      <Header/>
       <Footer/>
     </div>
   );
