@@ -1,10 +1,12 @@
 import React, { useState } from 'react';
 import Navbar from './Navbar';
+import Header from './Header';
 import Home from './pages/Home';
 import About from './pages/About';
 import Projects from './pages/Projects';
+import Resume from './pages/Resume';
 import Contact from './pages/Contact';
-// TODO: FIXME:
+
 export default function PortfolioContainer() {
     const [currentPage, setCurrentPage] = useState('Home');
 
@@ -18,6 +20,8 @@ export default function PortfolioContainer() {
                 return <Projects />;
             case 'Contact':
                 return <Contact />;
+            case 'Resume':
+                return <Resume />;
             default:
                 console.log('default switch case has been triggered');
         }
