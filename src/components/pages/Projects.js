@@ -3,7 +3,7 @@ import React from 'react';
 export default function Projects() {
     return (
         <div>
-            <h1 class="display-1">Projects Page</h1>
+            <h1 class="display-1 black-header">Projects Page</h1>
             <div class="card-columns">
                 <div class="card">
                     <img src="/images/budget-tracker.png"  width={300} alt="budget-tracker" />
