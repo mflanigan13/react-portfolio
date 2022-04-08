@@ -10,7 +10,7 @@
 ## Description
 This is a portfolio built with react for to showcase some of my work at SMU's Coding Bootcamp. Please checkout out the portfolio at the link below:
 
-[Deployment](https://github.com/mflanigan13/react-portfolio)
+[Deployment](https://react-portfolio-flanigan.herokuapp.com/)
 
 ## Screenshot
 ![Mallorie Flanigan Portfolio](https://github.com/mflanigan13/react-portfolio/blob/main/public/images/portfolio-screenshot.png)
