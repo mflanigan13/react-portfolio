@@ -4,13 +4,16 @@ export default function Projects() {
     return (
         <div>
             <h1 class="display-1">Projects Page</h1>
-            <div class="card-deck">
+            <div class="card-columns">
                 <div class="card">
                     <img src="/images/budget-tracker.png"  width={300} alt="budget-tracker" />
                     <div class="card-body">
                         <h3 class="card-title">Budget Tracker</h3>
                         <p class="card-text">A Budget Tracker application that allows users to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.</p>
-                        <a href="https://github.com/mflanigan13/pwa-budget-tracker" class="btn btn-primary">GitHub</a>
+                        <div class="btn-wrapper">
+                            <a href="https://github.com/mflanigan13/pwa-budget-tracker" class="btn btn-primary">GitHub</a>
+                            <a href="https://pwa-budget-tracker-13.herokuapp.com/" class="btn btn-primary">Deployment</a>
+                        </div>
                     </div>
                     <div class="card">
                         <img src="/images/e-commerce.jpg" width={300} alt="e-commerce backend" />

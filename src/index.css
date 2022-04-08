@@ -46,3 +46,13 @@ body {
     justify-content: center;
     align-items: center;
 }
+
+.btn-wrapper {
+    
+    display: flex;
+    justify-content: space-evenly
+}
+
+h1 {
+    color:aliceblue;
+}
