@@ -38,7 +38,7 @@ function ContactForm() {
 
     return (
         <section className="container">
-            <h2 data-testid='h1tag' className="top-title">Contact Form</h2>
+            <h1 class="display-1" data-testid='h1tag' className="top-title">Contact Form</h1>
             <hr></hr>
             <form class="justify-content-center" id="contact-form">
                 <div class="mt-5" >

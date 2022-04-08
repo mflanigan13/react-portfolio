@@ -1,0 +1,41 @@
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+main {
+    margin: 0 auto;
+    max-width: 90%;
+    padding: 50px 30px;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-weight: 600;
+    line-height: 1.5;
+    font-size: 18px;
+    letter-spacing: .1em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.bgimg {
+    /* The image used */
+    background-image: url("/public/images/alienbackground.jpg");
+
+    /* Full height */
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.contactIcons img {
+    width: 100px;
+    height: 70px;
+    display: inline-block;
+    padding: 0 10px 10px 25px;
+}
+
