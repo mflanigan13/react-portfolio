@@ -13,7 +13,7 @@ This is a portfolio built with react for to showcase some of my work at SMU's Co
 [Deployment](https://github.com/mflanigan13/react-portfolio)
 
 ## Screenshot
-![Mallorie Flanigan Portfolio]()
+![Mallorie Flanigan Portfolio](https://github.com/mflanigan13/react-portfolio/blob/main/public/images/portfolio-screenshot.png)
 
 ## Contributing
 This is a project for my bootcamp and did not have any contributors.
