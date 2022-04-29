@@ -19,6 +19,12 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+footer {
+    position: fixed;
+    bottom: 0;
+
+}
+
 .bgimg {
     /* The image used */
     background-image: url("/public/images/alienbackground.jpg");
